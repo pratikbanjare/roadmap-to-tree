@@ -1,2 +1,18 @@
 # roadmap-to-tree
-A repository to practice on Tree data structure and associated algorithms
+
+A repository to practice tree data structures and associated algorithms.
+
+## Requirements
+
+- JDK 21
+- Apache Maven 3.9 or later
+
+## Build and run
+
+```sh
+mvn test
+mvn exec:java
+```
+
+The project uses the standard Maven source layout: application code is in
+`src/main/java` and tests are in `src/test/java`.
