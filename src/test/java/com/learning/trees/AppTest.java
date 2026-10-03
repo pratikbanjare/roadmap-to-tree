@@ -1,4 +1,4 @@
-package com.roadmaptotree;
+package com.learning.trees;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

@@ -15,4 +15,6 @@ mvn exec:java
 ```
 
 The project uses the standard Maven source layout: application code is in
-`src/main/java` and tests are in `src/test/java`.
+`src/main/java` and tests are in `src/test/java`. Unit tests use JUnit 5;
+Cucumber scenarios live in `src/test/resources/features` with step definitions
+in `src/test/java/com/learning/trees`.
